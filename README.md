@@ -1,5 +1,18 @@
 # Project 3: Spots
 
+## Description
+
+A website meant to share images to people on the platform
+
+## Tech Stack
+
+-HTML
+-CSS
+-Responsive Design
+
+## Deplyment
+This webpage is deployed to Github Pages
+
 ### Overview  
 
 * Intro  
