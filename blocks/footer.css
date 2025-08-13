@@ -1,4 +1,14 @@
 .footer {
   justify-content: center;
   display: flex;
+  padding: 60px 0;
+}
+
+.footer__copyright {
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 400;
+  color: #212121b2;
+  margin: 0 auto;
+  text-align: center;
 }
