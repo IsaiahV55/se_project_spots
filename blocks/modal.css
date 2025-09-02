@@ -64,6 +64,8 @@
   /* TODO remove max-width in media query */
 }
 
-.modal__new-post {
-  
+.modal__new-post-btn {
+
 }
+
+.modal__new-post-close-btn
